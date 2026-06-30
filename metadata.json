@@ -1,0 +1,6 @@
+{
+  "name": "Cat Tracker",
+  "description": "A comprehensive cat tracking app to monitor daily health, diet, and activity levels with smart AI-driven insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
